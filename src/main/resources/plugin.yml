@@ -1,0 +1,12 @@
+name: MineQuest-DocParser
+main: com.theminequest.docparser.Main
+version: 0
+
+author: Xu_R
+
+description: Documentation Parser
+website: www.theminequest.com
+
+load: POSTWORLD
+
+depend: [MineQuest]
